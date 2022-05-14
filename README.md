@@ -11,11 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/procoder4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/procoder4" height="30" width="40" /></a>
-<a href="https://twitter.com/midlajzxz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="midlajzxz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad-midlaj-671b3a205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-midlaj-671b3a205" height="30" width="40" /></a>
-<a href="https://instagram.com/midhlaj4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="midhlaj4" height="30" width="40" /></a>
-<a href="https://discord.gg/pDfbn9Emzm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pDfbn9Emzm" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/salmanul-fariz-475049231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-midlaj-671b3a205" height="30" width="40" /></a>
+<a href="https://discord.gg/DeRvmSaTd9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pDfbn9Emzm" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
